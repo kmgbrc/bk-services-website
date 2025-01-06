@@ -1,0 +1,30 @@
+:root {
+  /* Dark Theme (Default) */
+  .theme-dark {
+    --background: #2B1B22;
+    --accent: #FF6B6B;
+    --text: #ffffff;
+    --text-secondary: #9CA3AF;
+    --border: #4B5563;
+    --card-bg: #1F1F1F;
+  }
+
+  /* Blue Theme */
+  .theme-blue {
+    --background: #1A202C;
+    --accent: #3B82F6;
+    --text: #ffffff;
+    --text-secondary: #9CA3AF;
+    --border: #4B5563;
+    --card-bg: #2D3748;
+  }
+}
+
+/* Theme Transition */
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.theme-transition {
+  transition: all 0.3s ease;
+}

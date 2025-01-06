@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root[data-theme="dark"] {
+  --background: #2B1B22;
+  --accent: #FF6B6B;
+  --text: #ffffff;
+  --bgColorBlack: #1a1418;
+}
+
+:root[data-theme="blue"] {
+  --background: #1A202C;
+  --accent: #3B82F6;
+  --text: #ffffff;
+  --bgColorBlack: #14161a;
+  --bgColorSoft: #10131b;
+}
+
+.text-accent {
+  color: var(--accent);
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text);
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.6;
+  overflow-x: hidden;
+  width: 100%;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.progress-bar {
+  height: 4px;
+  background: rgba(107, 166, 255, 0.2);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--accent);
+  transition: width 0.5s ease;
+}
+
+.service-card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+}
+
+.service-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-5px);
+}
+
+.language-selector {
+  position: relative;
+}
+
+.language-selector .options {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: var(--background);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 0.5rem;
+  padding: 0.5rem 0;
+  min-width: 150px;
+  z-index: 50;
+}
+
+.language-selector .option {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.language-selector .option:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--accent);
+}
+
+.testimonials-slider {
+  overflow: visible !important;
+}
+
+.testimonials-slider .swiper-slide {
+  opacity: 0.5;
+  transform: scale(0.9);
+  transition: all 0.3s ease;
+}
+
+.testimonials-slider .swiper-slide-active {
+  opacity: 1;
+  transform: scale(1);
+}

@@ -1,0 +1,950 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Servizi",
+    "portfolio": "Portfolio",
+    "about": "Chi Siamo",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "welcome": "Benvenuti",
+    "subtitle": "Soluzioni creative per i tuoi progetti visivi",
+    "description": "Sono un professionista appassionato nella trasformazione delle idee in progetti concreti. Grazie a un approccio incentrato su un design pulito e sull'innovazione, propongo una gamma completa di servizi per accompagnare i vostri progetti in ogni fase.",
+    "cta": "Richiedi un preventivo"
+  },
+
+  "successMessage": "La tua richiesta è stata inviata con successo! Ti contatteremo presto.",
+  "errorMessage": "Errore nell'invio della tua richiesta. Riprova per favore.",
+
+  "services": {
+    "title": "I Nostri Servizi",
+    "subtitle": "Soluzioni visive professionali per le tue esigenze",
+    "subsubtitle": {
+      "process": "Il Nostro Processo",
+      "pricing": "Piani Tariffari",
+      "popular": "Più Popolare",
+      "button": "Scegli Il Piano",
+      "faq": "Domande Frequenti"
+    },
+    "photography": "Fotografia Professionale",
+    "photographyDescription": "Fotografia di alta qualità per eventi, prodotti e ritratti",
+    "video": "Produzione Video",
+    "videoDescription": "Servizi professionali di produzione e montaggio video",
+    "graphics": "Design Grafico",
+    "graphicsDescription": "Soluzioni creative di design grafico per il tuo brand",
+    "production": "Produzione Stampa",
+    "productionDescription": "Servizi di stampa di alta qualità per tutte le esigenze",
+    "drone": "Servizi Drone",
+    "droneDescription": "Fotografia e videografia aerea professionale",
+    "web": "Sviluppo Web",
+    "webDescription": "Creazione di siti web personalizzati e ottimizzati",
+    "photographyFeatures": {
+      "feature1": "Attrezzatura professionale",
+      "feature2": "Immagini ad alta risoluzione",
+      "feature3": "Post-produzione inclusa"
+    },
+    "videoFeatures": {
+      "feature1": "Telecamere 4K",
+      "feature2": "Montaggio professionale",
+      "feature3": "Color grading"
+    },
+    "graphicsFeatures": {
+      "feature1": "Design personalizzato",
+      "feature2": "Formati adattabili",
+      "feature3": "Revisioni illimitate"
+    },
+    "productionFeatures": {
+      "feature1": "Stampa di alta qualità",
+      "feature2": "Materiali vari",
+      "feature3": "Finiture professionali"
+    },
+    "droneFeatures": {
+      "feature1": "Droni professionali",
+      "feature2": "Piloti certificati",
+      "feature3": "4K/60fps"
+    },
+    "webFeatures": {
+      "feature1": "Design responsive",
+      "feature2": "SEO ottimizzato",
+      "feature3": "Supporto tecnico"
+    },
+    "details": {
+      "photography": {
+        "hero": {
+          "title": "Fotografia Professionale",
+          "subtitle": "Catturare i Tuoi Momenti Perfetti"
+        },
+        "description": {
+          "main": "I nostri servizi di fotografia professionale combinano competenza tecnica e visione artistica per creare immagini straordinarie che raccontano la tua storia. Che tu abbia bisogno di foto di prodotti commerciali, ritratti aziendali o copertura di eventi, offriamo una qualità eccezionale che supera le aspettative.",
+          "equipment": "Utilizzando attrezzature all'avanguardia e tecniche di illuminazione avanzate, garantiamo che ogni immagine soddisfi i più alti standard professionali. Il nostro team di fotografi esperti è specializzato nel valorizzare al meglio ogni soggetto, creando visual coinvolgenti che catturano e ispirano.",
+          "process": "Dalla pianificazione pre-produzione alla consegna finale, gestiamo ogni aspetto del processo fotografico con meticolosa attenzione ai dettagli. Il nostro team di post-produzione garantisce una perfetta correzione del colore, ritocco e miglioramento mantenendo l'autenticità naturale."
+        },
+        "steps": {
+          "consultation": {
+            "title": "Consulenza Iniziale",
+            "description": "Discutiamo della tua visione, requisiti e risultati desiderati per creare un piano fotografico personalizzato."
+          },
+          "planning": {
+            "title": "Pianificazione & Preparazione",
+            "description": "Esploriamo le location, pianifichiamo l'illuminazione e prepariamo tutte le attrezzature necessarie per lo shooting."
+          },
+          "session": {
+            "title": "Sessione Fotografica",
+            "description": "Sessione fotografica professionale, condotta con expertise e un'attenzione particolare a ogni dettaglio."
+          },
+          "postProduction": {
+            "title": "Post-Produzione",
+            "description": "Selezione accurata e editing professionale degli scatti migliori per risultati perfetti."
+          },
+          "delivery": {
+            "title": "Consegna",
+            "description": "Immagini finali consegnate nel formato preferito, con opzioni per stampe e album."
+          }
+        },
+        "plans": {
+          "basic": {
+            "name": "Base",
+            "description": "Perfetto per piccoli progetti e shooting personali",
+            "features": [
+              "Sessione fotografica di 2 ore",
+              "50 foto ritoccate",
+              "Consegna digitale",
+              "Ritocco base",
+              "1 location",
+              "Massimo di 20 persone"
+            ]
+          },
+          "professional": {
+            "name": "Professionale",
+            "description": "Ideale per uso professionale e commerciale",
+            "features": [
+              "Sessione fotografica di 4 ore",
+              "150 foto ritoccate",
+              "Consegna digitale",
+              "Ritocco avanzato",
+              "2 location",
+              "Massimo di 80 persone"
+            ]
+          },
+          "premium": {
+            "name": "Premium",
+            "description": "Pacchetto completo per progetti estesi",
+            "features": [
+              "Sessione fotografica giornaliera",
+              "300 foto ritoccate",
+              "Consegna digitale",
+              "Ritocco premium",
+              "Location multiple",
+              "Massimo di 200 persone",
+              "Consegna rapida"
+            ]
+          }
+        },
+        "faqs": {
+          "specialization": {
+            "question": "In quali tipi di fotografia siete specializzati?",
+            "answer": "Siamo specializzati in fotografia commerciale, eventi, ritratti e prodotti, offrendo risultati professionali in tutte le categorie."
+          },
+          "delivery": {
+            "question": "Quanto tempo ci vuole per ricevere le foto finali?",
+            "answer": "La consegna standard è entro 2 settimane. La consegna rapida è disponibile con il nostro pacchetto Premium per la consegna entro 3-5 giorni lavorativi."
+          },
+          "raw": {
+            "question": "Fornite i file RAW?",
+            "answer": "I file RAW sono disponibili con il nostro pacchetto Premium o come add-on per altri pacchetti. Raccomandiamo l'utilizzo delle nostre foto modificate professionalmente per i migliori risultati."
+          },
+          "weather": {
+            "question": "Cosa succede se piove durante uno shooting all'aperto?",
+            "answer": "Monitoriamo le condizioni meteorologiche e riprogrammeremo gli shooting all'aperto se necessario, senza costi aggiuntivi."
+          }
+        }
+      },
+      "drone": {
+        "hero": {
+          "title": "Servizi con Drone",
+          "subtitle": "Fotografia e Videografia Aerea"
+        },
+        "description": {
+          "main": "I nostri servizi con drone offrono una prospettiva unica per i vostri progetti, combinando tecnologia aerea avanzata ed esperienza professionale. Che abbiate bisogno di fotografia aerea per immobili, monitoraggio di cantieri o produzioni creative, offriamo risultati impressionanti visti dall'alto.",
+          "equipment": "Usiamo droni professionali dotati di fotocamere ad alta risoluzione per catturare immagini aeree mozzafiato, aggiungendo una nuova dimensione ai vostri contenuti visivi. I nostri piloti di droni certificati garantiscono operazioni sicure e conformi mentre ottengono lo scatto perfetto.",
+          "process": "Dalla pianificazione accurata del volo alla post-produzione professionale, gestiamo ogni aspetto della cattura aerea con precisione e creatività. I nostri servizi includono sia fotografia che videografia."
+        },
+        "steps": {
+          "consultation": {
+            "title": "Pianificazione del Progetto",
+            "description": "Valutazione delle necessità, scouting dei luoghi e sviluppo del piano di volo."
+          },
+          "planning": {
+            "title": "Permessi e Conformità",
+            "description": "Ottenimento delle autorizzazioni necessarie e assicurazione della conformità con le normative locali sui droni."
+          },
+          "session": {
+            "title": "Ripresa Aerea",
+            "description": "Operazione professionale con drone per catturare foto e video dai migliori angoli."
+          },
+          "postProduction": {
+            "title": "Post-Produzione",
+            "description": "Editing e miglioramento esperti delle immagini e video aerei."
+          },
+          "delivery": {
+            "title": "Consegna Finale",
+            "description": "Consegna di contenuti aerei di alta qualità nel formato preferito."
+          }
+        },
+        "plans": {
+          "basic": {
+            "name": "Aereo Base",
+            "description": "Pacchetto essenziale di fotografia con drone",
+            "features": [
+              "Sessione di drone di 1 ora",
+              "15 foto aeree",
+              "Video in 1080p",
+              "Ritocchi base",
+              "1 luogo"
+            ]
+          },
+          "professional": {
+            "name": "Aereo Professionale",
+            "description": "Fotografia e videografia aerea completa",
+            "features": [
+              "Sessione di drone di 2 ore",
+              "30 foto aeree",
+              "Video in 4K",
+              "Ritocchi avanzati",
+              "Più luoghi"
+            ],
+            "isPopular": true
+          },
+          "premium": {
+            "name": "Aereo Premium",
+            "description": "Pacchetto completo di produzione aerea",
+            "features": [
+              "Copertura drone per tutta la giornata",
+              "50 foto aeree",
+              "Video in 4K",
+              "Ritocchi premium",
+              "Riprese notturne",
+              "Più luoghi",
+              "Consegna espressa"
+            ]
+          }
+        },
+        "faqs": {
+          "licence": {
+            "question": "Siete licenziati per operazioni con droni?",
+            "answer": "Sì, possediamo tutte le licenze e assicurazioni necessarie per le operazioni commerciali con droni in conformità con le normative locali."
+          },
+          "weather": {
+            "question": "Quali condizioni meteorologiche sono adatte ai voli con droni?",
+            "answer": "Operiamo con tempo sereno e venti inferiori a 20 mph. La sicurezza è la nostra priorità e riprogrammeremo se le condizioni non sono favorevoli."
+          },
+          "restricted": {
+            "question": "Potete volare in zone ristrette?",
+            "answer": "Possiamo ottenere autorizzazioni speciali per alcune zone ristrette quando possibile, ma alcune aree possono essere definitivamente vietate. Valuteremo questa possibilità durante la pianificazione."
+          },
+          "turnaround": {
+            "question": "Qual è il tempo di consegna standard?",
+            "answer": "La consegna standard avviene in 1-2 settimane. La consegna urgente è disponibile con il nostro pacchetto Premium."
+          }
+        }
+      },
+      "graphics": {
+        "hero": {
+          "title": "Design Grafico",
+          "subtitle": "Creare un Impatto Visivo"
+        },
+        "description": {
+          "main": "I nostri servizi di design grafico creano soluzioni visive d'impatto che aiutano il tuo marchio a distinguersi. Dai loghi alle identità visive complete, offriamo progetti creativi che comunicano efficacemente il tuo messaggio.",
+          "equipment": "Con una profonda comprensione dei principi del design e delle tendenze attuali, creiamo visualizzazioni che sono sia esteticamente piacevoli che strategicamente efficaci.",
+          "process": "Ogni progetto viene affrontato con creatività e attenzione ai dettagli, garantendo che gli elementi visivi del tuo marchio funzionino in modo coerente su tutte le piattaforme e i materiali."
+        },
+        "steps": {
+          "discovery": {
+            "title": "Scoperta",
+            "description": "Comprendere il tuo marchio, il pubblico target e gli obiettivi di design."
+          },
+          "concept": {
+            "title": "Sviluppo del Concetto",
+            "description": "Creazione di concept iniziali e direzione visiva."
+          },
+          "design": {
+            "title": "Creazione del Design",
+            "description": "Sviluppo di progetti dettagliati con attenzione professionale ai dettagli."
+          },
+          "refinement": {
+            "title": "Affinamento",
+            "description": "Perfezionamento dei progetti in base ai tuoi feedback."
+          },
+          "delivery": {
+            "title": "Consegna Finale",
+            "description": "Fornitura dei file finali in tutti i formati richiesti."
+          }
+        },
+        "plans": {
+          "basic": {
+            "name": "Design Base",
+            "description": "Pacchetto essenziale di design grafico",
+            "features": [
+              "Progettazione del logo",
+              "Progettazione di biglietti da visita",
+              "2 revisioni",
+              "Formati di file di base",
+              "Linee guida per il design"
+            ]
+          },
+          "business": {
+            "name": "Business",
+            "description": "Pacchetto completo di identità del marchio",
+            "features": [
+              "Progettazione del logo",
+              "Progettazione completa di cancelleria",
+              "Template per social media",
+              "4 revisioni",
+              "Linee guida per il marchio",
+              "Tutti i formati di file"
+            ]
+          },
+          "premium": {
+            "name": "Premium",
+            "description": "Soluzione di design completa",
+            "features": [
+              "Identità del marchio completa",
+              "Materiali di marketing",
+              "Progettazione del packaging",
+              "Revisioni illimitate",
+              "Strategia del marchio",
+              "Gestione della stampa"
+            ]
+          }
+        },
+        "faqs": {
+          "formats": {
+            "question": "Quali formati di file fornite?",
+            "answer": "Forniamo tutti i formati standard del settore, inclusi AI, PSD, PDF, EPS e JPG/PNG per l'uso web."
+          },
+          "rush": {
+            "question": "Offrite servizi urgenti?",
+            "answer": "Sì, offriamo servizi urgenti per progetti prioritari a un costo aggiuntivo."
+          },
+          "printing": {
+            "question": "Potete aiutare con la stampa?",
+            "answer": "Sì, possiamo gestire l'intero processo di stampa con i nostri partner di fiducia."
+          },
+          "illustrations": {
+            "question": "Create illustrazioni personalizzate?",
+            "answer": "Sì, offriamo servizi di illustrazione personalizzata per contenuti visivi unici."
+          }
+        }
+      },
+      "production": {
+        "hero": {
+          "title": "Stampa",
+          "subtitle": "Soluzioni di Stampa Professionali"
+        },
+        "description": {
+          "main": "I nostri servizi di stampa offrono una qualità eccezionale per tutte le tue esigenze di stampa. Dai biglietti da visita alle esposizioni in grande formato, garantiamo che ogni articolo stampato rispetti gli standard professionali.",
+          "equipment": "Utilizzando tecnologie di stampa all'avanguardia e materiali di alta qualità, produciamo materiali stampati che lasciano un'impressione duratura.",
+          "process": "I nostri servizi completi includono gestione esperta dei colori, rigoroso controllo qualità e opzioni di finitura per garantire che i tuoi materiali stampati siano impeccabili."
+        },
+        "steps": {
+          "consultation": {
+            "title": "Consultazione",
+            "description": "Discutere delle tue esigenze di stampa e specifiche."
+          },
+          "filePreparation": {
+            "title": "Preparazione dei File",
+            "description": "Garantire che i tuoi file rispettino gli standard professionali di stampa."
+          },
+          "proofReview": {
+            "title": "Revisione delle Bozze",
+            "description": "Revisione di bozze digitali o fisiche prima della stampa finale."
+          },
+          "production": {
+            "title": "Produzione",
+            "description": "Stampa di alta qualità con controllo qualità meticoloso."
+          },
+          "finishingDelivery": {
+            "title": "Finitura e Consegna",
+            "description": "Tocchi finali professionali e consegna sicura."
+          }
+        },
+        "plans": {
+          "basic": {
+            "name": "Stampa Base",
+            "description": "Pacchetto di stampa essenziale",
+            "features": [
+              "Biglietti da visita",
+              "Volantini",
+              "Opzioni di carta standard",
+              "Bozza digitale",
+              "Consegna standard"
+            ]
+          },
+          "professional": {
+            "name": "Professionale",
+            "description": "Soluzione di stampa completa per aziende",
+            "features": [
+              "Set di cancelleria completo",
+              "Materiali di marketing",
+              "Opzioni di carta premium",
+              "Bozza fisica",
+              "Consegna espressa",
+              "Servizio di archiviazione"
+            ]
+          },
+          "premium": {
+            "name": "Premium",
+            "description": "Pacchetto di stampa di lusso",
+            "features": [
+              "Materiali personalizzati",
+              "Finiture speciali",
+              "Stampa in grande formato",
+              "Bozze multiple",
+              "Servizio prioritario",
+              "Spedizione internazionale"
+            ]
+          }
+        },
+        "faqs": {
+          "methods": {
+            "question": "Quali metodi di stampa utilizzate?",
+            "answer": "Offriamo metodi di stampa digitale, offset e specializzati a seconda delle tue esigenze e quantità."
+          },
+          "paperOptions": {
+            "question": "Quali opzioni di carta offrite?",
+            "answer": "Offriamo una vasta gamma di carte, da quelle standard a quelle premium, incluse opzioni riciclate e speciali."
+          },
+          "rushPrinting": {
+            "question": "Offrite un servizio di stampa urgente?",
+            "answer": "Sì, offriamo servizi di stampa urgente per progetti urgenti con un costo aggiuntivo."
+          },
+          "largeQuantities": {
+            "question": "Potete gestire grandi quantità?",
+            "answer": "Sì, possiamo gestire tirature sia piccole che grandi con qualità costante."
+          }
+        }
+      },
+      "video": {
+        "hero": {
+          "title": "Produzione Video",
+          "subtitle": "Dai Vita alla Tua Storia"
+        },
+        "description": {
+          "main": "I nostri servizi di produzione video trasformano le tue idee in storie visive coinvolgenti. Dalla progettazione alla consegna finale, gestiamo ogni aspetto della creazione video con competenza professionale ed eccellenza creativa.",
+          "equipment": "Utilizzando attrezzature all'avanguardia e tecniche di produzione avanzate, garantiamo che i tuoi contenuti video si distinguano per qualità eccezionale e storytelling coinvolgente.",
+          "process": "Che si tratti di un video aziendale, un evento, uno spot pubblicitario o contenuti promozionali, il nostro team fornisce risultati professionali che comunicano efficacemente il tuo messaggio e raggiungono i tuoi obiettivi."
+        },
+        "steps": {
+          "preProduction": {
+            "title": "Pre-Produzione",
+            "description": "Sviluppo della sceneggiatura e pianificazione dettagliata del tuo progetto video."
+          },
+          "setup": {
+            "title": "Preparazione della Produzione",
+            "description": "Preparazione delle location, impostazione delle luci e test delle attrezzature."
+          },
+          "filming": {
+            "title": "Riprese",
+            "description": "Riprese professionali con attrezzature di alta qualità ed esperienza tecnica."
+          },
+          "postProduction": {
+            "title": "Post-Produzione",
+            "description": "Montaggio video, correzione del colore, design sonoro ed effetti speciali."
+          },
+          "delivery": {
+            "title": "Consegna Finale",
+            "description": "Processo di approvazione e consegna nel formato desiderato."
+          }
+        },
+        "plans": {
+          "basic": {
+            "name": "Video Base",
+            "description": "Perfetto per video promozionali brevi",
+            "features": [
+              "Video fino a 2 minuti",
+              "1 location di ripresa",
+              "Montaggio base",
+              "2 revisioni"
+            ]
+          },
+          "professional": {
+            "name": "Professionale",
+            "description": "Ideale per spot pubblicitari",
+            "features": [
+              "Video fino a 5 minuti",
+              "2 location di ripresa",
+              "Montaggio avanzato",
+              "3 revisioni",
+              "Voiceover"
+            ]
+          },
+          "premium": {
+            "name": "Premium",
+            "description": "Pacchetto completo per produzione video completa",
+            "features": [
+              "Video fino a 10 minuti",
+              "Location multiple",
+              "Montaggio premium",
+              "Revisioni illimitate",
+              "Risoluzione 4K"
+            ]
+          }
+        },
+        "faqs": {
+          "specialization": {
+            "question": "Che tipi di video producete?",
+            "answer": "Produciamo video aziendali, spot pubblicitari, dimostrazioni di prodotto, copertura di eventi e contenuti promozionali."
+          },
+          "delivery": {
+            "question": "Quanto tempo richiede la produzione di un video?",
+            "answer": "Il tempo di produzione tipico è di 2-4 settimane, a seconda della complessità e della durata del progetto."
+          },
+          "scriptWriting": {
+            "question": "Offrite servizi di scrittura di sceneggiature?",
+            "answer": "Sì, offriamo servizi professionali di scrittura di sceneggiature per trasmettere efficacemente il tuo messaggio."
+          },
+          "subtitles": {
+            "question": "Potete aggiungere sottotitoli in più lingue?",
+            "answer": "Sì, possiamo aggiungere sottotitoli in più lingue e fornire servizi di voiceover."
+          }
+        }
+      },
+      "web": {
+        "hero": {
+          "title": "Sviluppo Web",
+          "subtitle": "Soluzioni Digitali Personalizzate"
+        },
+        "description": {
+          "main": "I nostri servizi di sviluppo web offrono soluzioni digitali su misura che aiutano la tua azienda a prosperare online. Combiniamo il design creativo con l'esperienza tecnica per creare siti web non solo estetici, ma anche performanti.",
+          "equipment": "Utilizzando le ultime tecnologie e le migliori pratiche, creiamo siti web responsive che offrono un'esperienza utente ottimale su tutti i dispositivi. Il nostro processo di sviluppo si concentra sulla creazione di soluzioni scalabili, sicure e manutenibili.",
+          "process": "Dalle piattaforme di e-commerce ai siti web aziendali, gestiamo progetti di qualsiasi complessità con grande attenzione ai dettagli e un focus sugli obiettivi aziendali. Le nostre soluzioni includono test approfonditi e ottimizzazione per prestazioni ottimali."
+        },
+        "steps": {
+          "consultation": {
+            "title": "Scoperta & Pianificazione",
+            "description": "Capire i tuoi obiettivi, il pubblico target e le tue esigenze per creare un piano di progetto dettagliato."
+          },
+          "planning": {
+            "title": "Fase di Design",
+            "description": "Creazione di wireframe e design visivi che si allineano con il tuo brand e i tuoi obiettivi."
+          },
+          "development": {
+            "title": "Sviluppo",
+            "description": "Creazione del tuo sito web utilizzando tecnologie moderne e le migliori pratiche."
+          },
+          "testing": {
+            "title": "Test & Ottimizzazione",
+            "description": "Test approfonditi su vari dispositivi e ottimizzazione delle prestazioni."
+          },
+          "launch": {
+            "title": "Lancio & Supporto",
+            "description": "Distribuzione del sito e servizi di manutenzione e supporto continuo."
+          }
+        },
+        "plans": {
+          "starter": {
+            "name": "Starter",
+            "description": "Perfetto per piccole imprese",
+            "features": [
+              "Sito web di 5 pagine",
+              "Design responsive",
+              "Configurazione SEO di base",
+              "Modulo di contatto",
+              "3 revisioni"
+            ]
+          },
+          "business": {
+            "name": "Business",
+            "description": "Soluzione completa per aziende in crescita",
+            "features": [
+              "Sito web di 10 pagine",
+              "Design responsive",
+              "SEO avanzato",
+              "Sistema di gestione dei contenuti",
+              "Integrazione e-commerce",
+              "5 revisioni"
+            ],
+            "isPopular": true
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "price": "Su richiesta",
+            "description": "Soluzione personalizzata per grandi organizzazioni",
+            "features": [
+              "Pagine illimitate",
+              "Funzionalità personalizzate",
+              "Integrazioni avanzate",
+              "Supporto prioritario",
+              "Ottimizzazione delle prestazioni",
+              "Revisioni illimitate"
+            ]
+          }
+        },
+        "faqs": {
+          "time": {
+            "question": "Quanto tempo ci vuole per creare un sito web?",
+            "answer": "Un sito web tipico richiede generalmente dalle 4 alle 8 settimane, a seconda della complessità e dei requisiti. Le soluzioni aziendali personalizzate possono richiedere più tempo."
+          },
+          "hosting": {
+            "question": "Fornite hosting e manutenzione?",
+            "answer": "Sì, offriamo pacchetti di hosting e manutenzione per mantenere il sito sicuro e aggiornato."
+          },
+          "selfUpdate": {
+            "question": "Posso aggiornare il sito da solo?",
+            "answer": "Sì, forniamo un sistema di gestione dei contenuti facile da usare e formazione per aiutarti a gestire i contenuti."
+          },
+          "seo": {
+            "question": "Il SEO è incluso nel design del sito?",
+            "answer": "La configurazione SEO di base è inclusa in tutti i pacchetti. I servizi SEO avanzati sono disponibili nei pacchetti Business e Enterprise."
+          }
+        }
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Il Nostro Lavoro",
+    "subtitle": "Esplora i nostri ultimi progetti",
+    "latestWork": "Ultimi Progetti",
+    "latestWorkSubtitle": "Alcuni dei miei lavori recenti",
+    "viewAll": "Vedi tutti i progetti",
+    "categories": {
+      "all": "Tutti i Progetti",
+      "photography": "Fotografia",
+      "video": "Video",
+      "graphics": "Design Grafico",
+      "production": "Produzione",
+      "drone": "Drone",
+      "web": "Web"
+    },
+    "project1": {
+      "title": "Collezione Moda Urbana",
+      "description": "Fotografia di moda contemporanea in ambiente urbano"
+    },
+    "project2": {
+      "title": "Arte Culinaria",
+      "description": "Fotografia gastronomica di alta qualità per ristoranti"
+    },
+    "project3": {
+      "title": "Ritratti Corporate",
+      "description": "Ritratti professionali per dirigenti aziendali"
+    },
+    "project4": {
+      "title": "Presentazione Prodotti",
+      "description": "Fotografia di prodotti premium"
+    },
+    "project5": {
+      "title": "Copertura Eventi",
+      "description": "Fotografia completa di eventi"
+    },
+    "project6": {
+      "title": "Documentario Aziendale",
+      "description": "Cultura aziendale e storia di successo"
+    },
+    "project7": {
+      "title": "Lancio Prodotto",
+      "description": "Video di presentazione dinamica del prodotto"
+    },
+    "project8": {
+      "title": "Film Matrimoniale",
+      "description": "Film matrimoniale cinematografico"
+    },
+    "project9": {
+      "title": "Identità del Brand",
+      "description": "Sistema completo di design del brand"
+    },
+    "project10": {
+      "title": "Design Packaging",
+      "description": "Redesign del packaging del prodotto"
+    },
+    "project11": {
+      "title": "Report Annuale",
+      "description": "Design e stampa di report aziendali annuali"
+    },
+    "project12": {
+      "title": "Produzione Rivista",
+      "description": "Stampa mensile di riviste"
+    },
+    "project13": {
+      "title": "Immobiliare Aereo",
+      "description": "Fotografia aerea di proprietà di lusso"
+    },
+    "project14": {
+      "title": "Progresso Cantiere",
+      "description": "Documentazione del cantiere"
+    },
+    "project15": {
+      "title": "Piattaforma E-commerce",
+      "description": "Sviluppo di negozi online personalizzati"
+    },
+    "project16": {
+      "title": "Sito Web Aziendale",
+      "description": "Redesign di siti web aziendali"
+    },
+    "filters": {
+      "all": "Tutti",
+      "recent": "Recenti",
+      "popular": "Popolari"
+    }
+  },  
+  "cart":{
+    "empty": "Il tuo carrello è vuoto",
+    "header": "Il Tuo Carrello",
+    "add" : "aggiunto al carrello",
+    "total": "Totale",
+    "button": "Confermare l'ordine"
+  },
+  "modalForm": {
+    "serviceDetails": {
+      "header": "Dettagli del Servizio",
+      "fields": {
+        "location": {
+          "label": "Posizione",
+          "placeholder": "Inserisci la posizione del servizio"
+        },
+        "date": {
+          "label": "Data"
+        },
+        "startTime": {
+          "label": "Ora di Inizio"
+        },
+        "duration": {
+          "label": "Durata",
+          "placeholder": "Seleziona la durata",
+          "options": {
+            "1": "1 ora",
+            "2": "2 ore",
+            "4": "4 ore",
+            "8": "Giornata intera (8 ore)"
+          }
+        }
+      }
+    },
+    "clientDetails": {
+      "header": "Dettagli del Cliente",
+      "fields": {
+        "name": {
+          "label": "Nome *",
+          "placeholder": "Inserisci il tuo nome"
+        },
+        "email": {
+          "label": "E-mail *",
+          "placeholder": "Inserisci la tua e-mail"
+        },
+        "phone": {
+          "label": "Telefono",
+          "placeholder": "Inserisci il tuo numero di telefono"
+        },
+        "message": {
+          "label": "Messaggio",
+          "placeholder": "Informazioni aggiuntive o richieste speciali"
+        }
+      }
+    },
+    "buttons": {
+      "cancel": "Annulla",
+      "confirm": "Conferma Prenotazione"
+    }
+  },
+  "modal":{
+    "requestBooking": "Richiedi prenotazione",
+    "servicesSelected": "Servizi selezionati"
+  },
+  "about": {
+    "title": "Chi Siamo",
+    "subtitle": "Il Tuo Partner nell'Expertise Creativa",
+    "description": "BK, tecnico dell'arte audiovisiva, mette a disposizione oltre 10 anni di esperienza nel design visivo e nei media digitali, unendo innovazione e competenza.",
+    "showreel": "Guarda il Mio Showreel",
+    "bio": {
+      "title": "Incontra Brice Kamga",
+      "content": "Fotografo professionista e artista visivo, Brice Kamga ha oltre un decennio di esperienza nella creazione di contenuti visivi eccezionali, combinando estetica e strategia per catturare l'essenza di ogni progetto."
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Parliamo del tuo prossimo progetto",
+    "description": "Discutiamo del tuo progetto e creiamo qualcosa di straordinario insieme",
+    "info": {
+      "title": "Informazioni di Contatto"
+    },
+    "location": "Italia",
+    "form": {
+      "name": "Il tuo Nome",
+      "email": "Indirizzo Email",
+      "phone": "Numero di Telefono",
+      "message": "Il tuo Messaggio",
+      "submit": "Invia Messaggio"
+    }
+  },
+  "footer": {
+    "description": "Soluzioni creative per i tuoi progetti visivi",
+    "quickLinks": "Link Rapidi",
+    "services": "Servizi",
+    "contact": "Contatti",
+    "rights": "Tutti i diritti riservati"
+  },
+  "stats": {
+    "projectsCompleted": "Progetti Completati",
+    "happyClients": "Clienti Soddisfatti",
+    "cupsOfCoffee": "Tazze di Caffè",
+    "recommendations": "Raccomandazioni"
+  },
+  "testimonials": {
+    "title": "Cosa dicono i clienti",
+    "1": {
+      "content": "Lavorare con Brice è stato un vero piacere. La sua attenzione ai dettagli e la visione creativa hanno dato vita al nostro progetto.",
+      "author": "Emily Davis",
+      "service": "Servizio: Fotografia professionale",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
+    },
+    "2": {
+      "content": "Servizio eccezionale e risultati straordinari. La professionalità e l'esperienza del team hanno superato le nostre aspettative.",
+      "author": "Robert Kim",
+      "service": "Servizio: Produzione video",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
+    },
+    "3": {
+      "content": "La qualità del lavoro e la dedizione al nostro progetto sono state straordinarie. Consiglio vivamente i loro servizi.",
+      "author": "Sarah Johnson",
+      "service": "Servizio: Design grafico",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80"
+    },
+    "4": {
+      "content": "Soluzioni innovative e creatività eccezionale. BK Services ha trasformato completamente la nostra identità di marca.",
+      "author": "Michael Chen",
+      "service": "Servizio: Design grafico",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+    },
+    "5": {
+      "content": "Professionali, reattivi e incredibilmente talentuosi. I risultati hanno superato le nostre aspettative.",
+      "author": "Laura Martinez",
+      "service": "Servizio: Produzione video",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb"
+    },
+    "6": {
+      "content": "Servizi fotografici eccezionali. I nostri prodotti sono stati catturati magnificamente.",
+      "author": "David Wilson",
+      "service": "Servizio: Fotografia professionale",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d"
+    },
+    "7": {
+      "content": "Le riprese con il drone erano spettacolari. Hanno dato un vantaggio competitivo alle nostre inserzioni immobiliari.",
+      "author": "Jessica Brown",
+      "service": "Servizio: Servizi con drone",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
+    },
+    "8": {
+      "content": "Ottimo lavoro di sviluppo web. Il nostro nuovo sito ha migliorato notevolmente la nostra presenza online.",
+      "author": "Thomas Anderson",
+      "service": "Servizio: Sviluppo web",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
+    },
+    "9": {
+      "content": "Soluzioni creative e consegne puntuali. È stato un piacere lavorare con loro.",
+      "author": "Sofia Rodriguez",
+      "service": "Servizio: Design grafico",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2"
+    },
+    "10": {
+      "content": "La qualità della produzione video era eccezionale. Ha dato davvero vita alla nostra storia.",
+      "author": "James Cooper",
+      "service": "Servizio: Produzione video",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e"
+    },
+    "11": {
+      "content": "Un lavoro di design grafico fantastico. La nostra nuova identità di marca è perfetta.",
+      "author": "Emma Thompson",
+      "service": "Servizio: Design grafico",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb"
+    },
+    "12": {
+      "content": "Un servizio professionale dall'inizio alla fine. Altamente consigliato.",
+      "author": "Daniel Lee",
+      "service": "Servizio: Sviluppo web",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e"
+    },
+    "13": {
+      "content": "La qualità della stampa ha superato le nostre aspettative. Un servizio eccezionale.",
+      "author": "Maria Garcia",
+      "service": "Servizio: Design grafico",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
+    },
+    "14": {
+      "content": "Un approccio innovativo al design. Hanno davvero capito la nostra visione.",
+      "author": "William Taylor",
+      "service": "Servizio: Design grafico",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d"
+    },
+    "15": {
+      "content": "Attenzione eccezionale ai dettagli. I risultati erano straordinari.",
+      "author": "Anna White",
+      "service": "Servizio: Fotografia professionale",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2"
+    },
+    "16": {
+      "content": "Un team professionale e risultati eccezionali. Lavorerei sicuramente di nuovo con loro.",
+      "author": "Chris Black",
+      "service": "Servizio: Produzione video",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e"
+    },
+    "17": {
+      "content": "Soluzioni creative e un'ottima comunicazione durante tutto il progetto.",
+      "author": "Lisa Anderson",
+      "service": "Servizio: Sviluppo web",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb"
+    },
+    "18": {
+      "content": "La qualità del lavoro era eccezionale. Ha dato davvero vita alla nostra visione.",
+      "author": "Mark Stevens",
+      "service": "Servizio: Sviluppo web",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
+    }
+  },
+  "aboutPage": {
+    "title": "Chi Sono",
+    "subtitle": "Direttore Creativo & Designer Digitale",
+    "intro": {
+      "title": "Sono un Direttore creativo",
+      "location": "basato in Italia",
+      "description": "che ama il design pulito, semplice e unico. Mi piace anche creare identità di marca ed esperienze digitali."
+    },
+    "skills": {
+      "wireframing": "Wireframing",
+      "uiux": "UI/UX",
+      "interaction": "Design dell'interazione"
+    },
+    "experience": {
+      "title": "Esperienza Professionale",
+      "positions": {
+        "2020": {
+          "title": "Direttore Creativo Senior",
+          "description": "Gestione di progetti creativi importanti e direzione di team di design."
+        },
+        "2018": {
+          "title": "Direttore Creativo",
+          "description": "Supervisione di progetti creativi e sviluppo di soluzioni innovative."
+        },
+        "2016": {
+          "title": "Designer Senior",
+          "description": "Creazione di design d'impatto e direzione di team creativi."
+        }
+      }
+    },
+    "education": {
+      "title": "Formazione & Certificazioni",
+      "items": {
+        "masters": {
+          "title": "Master in Design",
+          "institution": "Università di New York, 2015-2017"
+        },
+        "uxCert": {
+          "title": "Certificazione UX",
+          "institution": "Google Design Certificate, 2018"
+        },
+        "webDev": {
+          "title": "Sviluppo Web",
+          "institution": "Frontend Masters, 2019"
+        }
+      }
+    }
+  }
+}
