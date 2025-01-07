@@ -19,6 +19,7 @@
   "services": {
     "title": "Unsere Dienstleistungen",
     "subtitle": "Professionelle visuelle Lösungen für Ihre Bedürfnisse",
+    "learnMore": "Mehr Erfahren",
     "subsubtitle": {
       "process": "Unser Prozess",
       "pricing": "Preispläne",
@@ -32,8 +33,8 @@
     "videoDescription": "Professionelle Videoproduktion und Bearbeitung",
     "graphics": "Grafikdesign",
     "graphicsDescription": "Kreative Grafikdesign-Lösungen für Ihre Marke",
-    "production": "Druckproduktion",
-    "productionDescription": "Hochwertige Druckdienstleistungen für alle Anforderungen",
+    "printing": "Druckdienst",
+    "printingDescription": "Hochwertige Druckdienstleistungen für alle Anforderungen",
     "drone": "Drohnenservice",
     "droneDescription": "Professionelle Luftaufnahmen und Videografie",
     "web": "Webentwicklung",
@@ -53,7 +54,7 @@
       "feature2": "Anpassbare Formate",
       "feature3": "Unbegrenzte Revisionen"
     },
-    "productionFeatures": {
+    "printingFeatures": {
       "feature1": "Hochwertiger Druck",
       "feature2": "Verschiedene Materialien",
       "feature3": "Professionelle Veredelung"
@@ -336,7 +337,7 @@
           }
         }
       },
-      "production": {
+      "printing": {
         "hero": {
           "title": "Druck",
           "subtitle": "Professionelle Drucklösungen"
@@ -612,7 +613,7 @@
       "photography": "Fotografie",
       "video": "Video",
       "graphics": "Grafikdesign",
-      "production": "Produktion",
+      "printing": "Druck",
       "drone": "Drohne",
       "web": "Web"
     },
@@ -745,7 +746,7 @@
       "confirm": "Buchung Bestätigen"
     }
   },
-  "modal":{
+  "modal": {
     "requestBooking": "Buchung anfordern",
     "servicesSelected": "Ausgewählte Dienstleistungen"
   },
@@ -757,6 +758,82 @@
     "bio": {
       "title": "Lernen Sie Brice Kamga kennen",
       "content": "Professioneller Fotograf und visueller Künstler, Brice Kamga verfügt über mehr als ein Jahrzehnt Erfahrung in der Erstellung außergewöhnlicher visueller Inhalte und verbindet Ästhetik mit Strategie, um das Wesen jedes Projekts einzufangen."
+    },
+    "experience": {
+      "title": "Beruflicher Werdegang",
+      "workExperience": "Berufserfahrung",
+      "positions": {
+        "1": {
+          "title": "Softwareanalytiker Und -Entwickler",
+          "company": "Unife Webbüro",
+          "period": "2024 - Gegenwart",
+          "description": "Entwicklung Von Digitalisierungsprozessen, Entwicklung Und Wartung Der Universitäts-CMS."
+        },
+        "2": {
+          "title": "Management Von MES (Manufacturing Execution System)",
+          "company": "Digifor Srl",
+          "period": "2023 - 2024",
+          "description": "Protokollentwicklung, Maschinenvernetzung."
+        },
+        "3": {
+          "title": "Audiovisueller Techniker",
+          "company": "AAW TV",
+          "period": "2017 - 2018",
+          "description": "Videobearbeitung, Grafikdesign, Erstellung Von Produktionsgrafiken."
+        },
+        "4": {
+          "title": "Audiovisueller Editor",
+          "company": "Canal 2 International",
+          "period": "2014",
+          "description": "Videobearbeitung."
+        },
+        "5": {
+          "title": "Radiotechniker",
+          "company": "Tome Broadcasting Corporation",
+          "period": "2011 - 2013",
+          "description": "Radioproduktion, Erstellung Von Audio-Spots, Discjockey (DJ)."
+        }
+      }
+    },
+    "certifications": {
+      "title": "Zertifikate",
+      "items": {
+        "1": {
+          "title": "Virtuelle Und Erweiterte Realität Für Unternehmen",
+          "organization": "Centro Formazione Innovazione SRL",
+          "year": "2024"
+        },
+        "2": {
+          "title": "Zertifizierter Drohnenpilot",
+          "organization": "DGAC - Europäisches Zertifikat A1/A3",
+          "year": "2024"
+        },
+        "3": {
+          "title": "Techniker Der Audiovisuellen Kunst",
+          "organization": "Don Bosco Berufszentrum",
+          "year": "2013"
+        }
+      }
+    },
+    "education": {
+      "title": "Bildung",
+      "items": {
+        "1": {
+          "title": "Master In Informatik Und Automatisierung: Künstliche Intelligenz",
+          "institution": "Universität Ferrara",
+          "period": "2025"
+        },
+        "2": {
+          "title": "Bachelor In Elektronik- Und Informatikingenieurwesen",
+          "institution": "Universität Ferrara",
+          "period": "2022"
+        },
+        "3": {
+          "title": "Abitur In Mathematik Und Naturwissenschaften",
+          "institution": "Bilinguales Gymnasium Mendong",
+          "period": "2011"
+        }
+      }
     }
   },
   "contact": {
@@ -764,7 +841,26 @@
     "subtitle": "Lassen Sie uns über Ihr nächstes Projekt sprechen",
     "description": "Besprechen wir Ihr Projekt und schaffen gemeinsam etwas Außergewöhnliches",
     "info": {
-      "title": "Kontaktinformationen"
+      "titleInfo": "Kontaktinformationen",
+      "titleForm": "Senden Sie uns eine Nachricht",
+      "phone": {
+        "name": "Telefon"
+      },
+      "mail": {
+        "name": "E-Mail"
+      },
+      "hour": {
+        "name": "Öffnungszeiten",
+        "value": "Mo - Fr: 9:00 - 18:00"
+      },
+      "address": {
+        "name": "Adresse",
+        "location": "Ferrara, Italien"
+      },
+      "globe": {
+        "name": "Dienstleistungsbereich",
+        "value": "International"
+      }
     },
     "location": "Italien",
     "form": {

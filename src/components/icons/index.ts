@@ -13,7 +13,8 @@ import {
   Linkedin,
   Send,
   Award,
-  Wrench // Replace Tool with Wrench
+  Wrench, // Replace Tool with Wrench
+  Clock
 } from 'lucide-react';
 
 // Service icons
@@ -30,7 +31,9 @@ export const serviceIcons = {
 export const contactIcons = {
   phone: Phone,
   email: Mail,
-  location: MapPin
+  location: MapPin,
+  clock: Clock,
+  globe: Globe,
 } as const;
 
 // Social icons

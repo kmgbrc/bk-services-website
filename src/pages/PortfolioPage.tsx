@@ -45,7 +45,7 @@ export default function PortfolioPage() {
   return (
     <div className="pt-20">
       <Header
-        bgImg="src\\assets\\droneMontains.jpg"
+        bgImg="public\\images\\bannerPortfolio.webp"
         title={t("portfolio.title")}
         subtitle={t("portfolio.subtitle")}
       />

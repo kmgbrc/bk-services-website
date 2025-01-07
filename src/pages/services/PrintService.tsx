@@ -9,53 +9,53 @@ export default function PrintService() {
 
   const steps = [
     {
-      title: t("services.details.production.steps.consultation.title"),
-      description: t("services.details.production.steps.consultation.description"),
+      title: t("services.details.printing.steps.consultation.title"),
+      description: t("services.details.printing.steps.consultation.description"),
     },
     {
-      title: t("services.details.production.steps.filePreparation.title"),
-      description: t("services.details.production.steps.filePreparation.description"),
+      title: t("services.details.printing.steps.filePreparation.title"),
+      description: t("services.details.printing.steps.filePreparation.description"),
     },
     {
-      title: t("services.details.production.steps.proofReview.title"),
-      description: t("services.details.production.steps.proofReview.description"),
+      title: t("services.details.printing.steps.proofReview.title"),
+      description: t("services.details.printing.steps.proofReview.description"),
     },
     {
-      title: t("services.details.production.steps.production.title"),
-      description: t("services.details.production.steps.production.description"),
+      title: t("services.details.printing.steps.production.title"),
+      description: t("services.details.printing.steps.production.description"),
     },
     {
-      title: t("services.details.production.steps.finishingDelivery.title"),
-      description: t("services.details.production.steps.finishingDelivery.description"),
+      title: t("services.details.printing.steps.finishingDelivery.title"),
+      description: t("services.details.printing.steps.finishingDelivery.description"),
     },
   ];
 
   const plans = [
     {
-      name: t("services.details.production.plans.basic.name"),
+      name: t("services.details.printing.plans.basic.name"),
       originalName: 'basic',
       price: "€149",
-      description: t("services.details.production.plans.basic.description"),
-      features: t("services.details.production.plans.basic.features", {
+      description: t("services.details.printing.plans.basic.description"),
+      features: t("services.details.printing.plans.basic.features", {
         returnObjects: true,
       }) as string[],
     },
     {
-      name: t("services.details.production.plans.professional.name"),
+      name: t("services.details.printing.plans.professional.name"),
       originalName: 'professional',
       price: "€399",
-      description: t("services.details.production.plans.professional.description"),
-      features: t("services.details.production.plans.professional.features", {
+      description: t("services.details.printing.plans.professional.description"),
+      features: t("services.details.printing.plans.professional.features", {
         returnObjects: true,
       }) as string[],
       isPopular: true,
     },
     {
-      name: t("services.details.production.plans.premium.name"),
+      name: t("services.details.printing.plans.premium.name"),
       originalName: 'premium',
       price: "€749",
-      description: t("services.details.production.plans.premium.description"),
-      features: t("services.details.production.plans.premium.features", {
+      description: t("services.details.printing.plans.premium.description"),
+      features: t("services.details.printing.plans.premium.features", {
         returnObjects: true,
       }) as string[],
     },
@@ -63,28 +63,28 @@ export default function PrintService() {
 
   const faqs = [
     {
-      question: t("services.details.production.faqs.methods.question"),
-      answer: t("services.details.production.faqs.methods.answer"),
+      question: t("services.details.printing.faqs.methods.question"),
+      answer: t("services.details.printing.faqs.methods.answer"),
     },
     {
-      question: t("services.details.production.faqs.paperOptions.question"),
-      answer: t("services.details.production.faqs.paperOptions.answer"),
+      question: t("services.details.printing.faqs.paperOptions.question"),
+      answer: t("services.details.printing.faqs.paperOptions.answer"),
     },
     {
-      question: t("services.details.production.faqs.rushPrinting.question"),
-      answer: t("services.details.production.faqs.rushPrinting.answer"),
+      question: t("services.details.printing.faqs.rushPrinting.question"),
+      answer: t("services.details.printing.faqs.rushPrinting.answer"),
     },
     {
-      question: t("services.details.production.faqs.largeQuantities.question"),
-      answer: t("services.details.production.faqs.largeQuantities.answer"),
+      question: t("services.details.printing.faqs.largeQuantities.question"),
+      answer: t("services.details.printing.faqs.largeQuantities.answer"),
     },
   ];
 
   return (
     <div>
       <ServiceHero
-        title={t("services.details.production.hero.title")}
-        subtitle={t("services.details.production.hero.subtitle")}
+        title={t("services.details.printing.hero.title")}
+        subtitle={t("services.details.printing.hero.subtitle")}
         image="/src/assets/banner2.jpg"
       />
 
@@ -92,13 +92,13 @@ export default function PrintService() {
         <div className="container mx-auto px-4 text-justify">
           <div className="max-w-3xl mx-auto">
             <p className="text-xl text-gray-400 mb-8">
-              {t("services.details.production.description.main")}
+              {t("services.details.printing.description.main")}
             </p>
             <p className="text-gray-400 mb-8">
-              {t("services.details.production.description.equipment")}
+              {t("services.details.printing.description.equipment")}
             </p>
             <p className="text-gray-400">
-              {t("services.details.production.description.process")}
+              {t("services.details.printing.description.process")}
             </p>
           </div>
         </div>
@@ -112,7 +112,7 @@ export default function PrintService() {
       <h2 className="text-3xl font-bold mb-1 text-center">
         {t("services.subsubtitle.pricing")}
       </h2>
-      <PricingTable plans={plans} serviceName="production" />
+      <PricingTable plans={plans} serviceName="printing" />
 
       <h2 className="text-3xl font-bold mb-1 text-center">
         {t("services.subsubtitle.faq")}

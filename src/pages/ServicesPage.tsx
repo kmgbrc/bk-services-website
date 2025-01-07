@@ -44,9 +44,9 @@ export default function ServicesPage() {
     },
     { 
       icon: Printer, 
-      key: 'production', 
+      key: 'printing', 
       image: 'https://images.unsplash.com/photo-1504270997636-07ddfbd48945',
-      path: '/services/production',
+      path: '/services/printing',
       features: ['feature1', 'feature2', 'feature3']
     },
   ];

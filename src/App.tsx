@@ -37,7 +37,7 @@ function App() {
             <Route path="/services/photography" element={<PhotographyService />} />
             <Route path="/services/video" element={<VideoService />} />
             <Route path="/services/graphics" element={<GraphicsService />} />
-            <Route path="/services/production" element={<PrintService />} />
+            <Route path="/services/printing" element={<PrintService />} />
             <Route path="/services/drone" element={<DroneService />} />
             <Route path="/services/web" element={<WebService />} />
             <Route path="/portfolio" element={<PortfolioPage />} />

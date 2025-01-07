@@ -65,7 +65,7 @@ export default function Footer() {
                 "drone",
                 "web",
                 "graphics",
-                "production",
+                "printing",
               ].map((service) => (
                 <li key={service}>
                   <Link
@@ -92,7 +92,7 @@ export default function Footer() {
                 Icon: Mail,
                 text: import.meta.env.VITE_REACT_APP_EMAIL,
               },
-              { Icon: MapPin, text: t("contact.location") },
+              { Icon: MapPin, text: t("contact.info.address.location") },
             ].map(({ Icon, text }, index) => (
               <div key={index} className="flex items-center gap-3 mb-4">
                 <Icon className="w-5 h-5 text-[var(--accent)]" />

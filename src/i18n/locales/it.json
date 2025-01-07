@@ -19,6 +19,7 @@
   "services": {
     "title": "I Nostri Servizi",
     "subtitle": "Soluzioni visive professionali per le tue esigenze",
+    "learnMore": "Scopri di più",
     "subsubtitle": {
       "process": "Il Nostro Processo",
       "pricing": "Piani Tariffari",
@@ -32,8 +33,8 @@
     "videoDescription": "Servizi professionali di produzione e montaggio video",
     "graphics": "Design Grafico",
     "graphicsDescription": "Soluzioni creative di design grafico per il tuo brand",
-    "production": "Produzione Stampa",
-    "productionDescription": "Servizi di stampa di alta qualità per tutte le esigenze",
+    "printing": "Servizio di Stampa",
+    "printingDescription": "Servizi di stampa di alta qualità per tutte le esigenze",
     "drone": "Servizi Drone",
     "droneDescription": "Fotografia e videografia aerea professionale",
     "web": "Sviluppo Web",
@@ -53,7 +54,7 @@
       "feature2": "Formati adattabili",
       "feature3": "Revisioni illimitate"
     },
-    "productionFeatures": {
+    "printingFeatures": {
       "feature1": "Stampa di alta qualità",
       "feature2": "Materiali vari",
       "feature3": "Finiture professionali"
@@ -326,7 +327,7 @@
             "question": "Offrite servizi urgenti?",
             "answer": "Sì, offriamo servizi urgenti per progetti prioritari a un costo aggiuntivo."
           },
-          "printing": {
+          "production": {
             "question": "Potete aiutare con la stampa?",
             "answer": "Sì, possiamo gestire l'intero processo di stampa con i nostri partner di fiducia."
           },
@@ -336,7 +337,7 @@
           }
         }
       },
-      "production": {
+      "printing": {
         "hero": {
           "title": "Stampa",
           "subtitle": "Soluzioni di Stampa Professionali"
@@ -612,7 +613,7 @@
       "photography": "Fotografia",
       "video": "Video",
       "graphics": "Design Grafico",
-      "production": "Produzione",
+      "printing": "Stampa",
       "drone": "Drone",
       "web": "Web"
     },
@@ -685,11 +686,11 @@
       "recent": "Recenti",
       "popular": "Popolari"
     }
-  },  
-  "cart":{
+  },
+  "cart": {
     "empty": "Il tuo carrello è vuoto",
     "header": "Il Tuo Carrello",
-    "add" : "aggiunto al carrello",
+    "add": "aggiunto al carrello",
     "total": "Totale",
     "button": "Confermare l'ordine"
   },
@@ -745,7 +746,7 @@
       "confirm": "Conferma Prenotazione"
     }
   },
-  "modal":{
+  "modal": {
     "requestBooking": "Richiedi prenotazione",
     "servicesSelected": "Servizi selezionati"
   },
@@ -757,6 +758,82 @@
     "bio": {
       "title": "Incontra Brice Kamga",
       "content": "Fotografo professionista e artista visivo, Brice Kamga ha oltre un decennio di esperienza nella creazione di contenuti visivi eccezionali, combinando estetica e strategia per catturare l'essenza di ogni progetto."
+    },
+    "experience": {
+      "title": "Percorso Professionale",
+      "workExperience": "Esperienza Professionale",
+      "positions": {
+        "1": {
+          "title": "Analista E Progettista Di Software",
+          "company": "Ufficio Web Di Unife",
+          "period": "2024 - Presente",
+          "description": "Sviluppo Dei Processi Di Digitalizzazione, Sviluppo E Manutenzione Dei CMS Dell’Università."
+        },
+        "2": {
+          "title": "Gestione Dei Sistemi MES (Manufacturing Execution System)",
+          "company": "Digifor Srl",
+          "period": "2023 - 2024",
+          "description": "Sviluppo Di Protocolli, Interconnessione Delle Macchine."
+        },
+        "3": {
+          "title": "Tecnico Audiovisivo",
+          "company": "AAW TV",
+          "period": "2017 - 2018",
+          "description": "Montaggio Video, Grafico, Creazione Di Grafica Per Produzioni."
+        },
+        "4": {
+          "title": "Montatore Audiovisivo",
+          "company": "Canal 2 International",
+          "period": "2014",
+          "description": "Montaggio Video."
+        },
+        "5": {
+          "title": "Tecnico Di Trasmissione Radio",
+          "company": "Tome Broadcasting Corporation",
+          "period": "2011 - 2013",
+          "description": "Trasmissioni Radio, Creazione Di Spot Audio, Disc Jockey (DJ)."
+        }
+      }
+    },
+    "certifications": {
+      "title": "Certificazioni",
+      "items": {
+        "1": {
+          "title": "Realtà Virtuale E Aumentata Al Servizio Delle Imprese",
+          "organization": "Centro Formazione Innovazione SRL",
+          "year": "2024"
+        },
+        "2": {
+          "title": "Pilota Di Drone Certificato",
+          "organization": "DGAC - Certificato Europeo A1/A3",
+          "year": "2024"
+        },
+        "3": {
+          "title": "Tecnico Dell’Arte Audiovisiva",
+          "organization": "Centro Professionale Don Bosco",
+          "year": "2013"
+        }
+      }
+    },
+    "education": {
+      "title": "Formazione",
+      "items": {
+        "1": {
+          "title": "Master In Ingegneria Informatica E Automatica: Intelligenza Artificiale",
+          "institution": "Università Degli Studi Di Ferrara",
+          "period": "2025"
+        },
+        "2": {
+          "title": "Laurea In Ingegneria Elettronica E Informatica",
+          "institution": "Università Degli Studi Di Ferrara",
+          "period": "2022"
+        },
+        "3": {
+          "title": "Diploma Di Maturità In Matematica E Scienze Fisiche",
+          "institution": "Liceo Bilingue Di Mendong",
+          "period": "2011"
+        }
+      }
     }
   },
   "contact": {
@@ -764,7 +841,26 @@
     "subtitle": "Parliamo del tuo prossimo progetto",
     "description": "Discutiamo del tuo progetto e creiamo qualcosa di straordinario insieme",
     "info": {
-      "title": "Informazioni di Contatto"
+      "titleInfo": "Informazioni di Contatto",
+      "titleForm": "Inviaci un messaggio",
+      "phone": {
+        "name": "Telefono"
+      },
+      "mail": {
+        "name": "Email"
+      },
+      "hour": {
+        "name": "Orari",
+        "value": "Lun - Ven: 9:00 - 18:00"
+      },
+      "address": {
+        "name": "Indirizzo",
+        "location": "Ferrara, Italia"
+      },
+      "globe": {
+        "name": "Area di Servizio",
+        "value": "Internazionale"
+      }
     },
     "location": "Italia",
     "form": {

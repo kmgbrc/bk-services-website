@@ -5,7 +5,7 @@ export const categories: CategoryType[] = [
   { id: 'photography', label: 'portfolio.categories.photography' },
   { id: 'video', label: 'portfolio.categories.video' },
   { id: 'graphics', label: 'portfolio.categories.graphics' },
-  { id: 'production', label: 'portfolio.categories.production' },
+  { id: 'printing', label: 'portfolio.categories.printing' },
   { id: 'drone', label: 'portfolio.categories.drone' },
   { id: 'web', label: 'portfolio.categories.web' },
 ];
@@ -84,14 +84,14 @@ export const projects: ProjectType[] = [
   {
     id: 11,
     translationKey: "project11",
-    category: "production",
+    category: "printing",
     image: "https://images.unsplash.com/photo-1504270997636-07ddfbd48945",
     client: "Corporate Client",
   },
   {
     id: 12,
     translationKey: "project12",
-    category: "production",
+    category: "printing",
     image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
     client: "Publishing House",
   },

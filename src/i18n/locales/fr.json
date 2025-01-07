@@ -26,14 +26,15 @@
       "button": "Choisir Un Plan",
       "faq": "Questions Fréquemment Posées"
     },
+    "learnMore": "En savoir plus",
     "photography": "Photographie Professionnelle",
     "photographyDescription": "Services de photographie haut de gamme pour événements, produits et portraits",
     "video": "Production Vidéo",
     "videoDescription": "Services professionnels de production et montage vidéo",
     "graphics": "Design Graphique",
     "graphicsDescription": "Solutions créatives de design graphique pour votre marque",
-    "production": "Production Imprimée",
-    "productionDescription": "Services d'impression de haute qualité pour tous vos besoins",
+    "printing": "Services d'Impression",
+    "printingDescription": "Services d'impression de haute qualité pour tous vos besoins",
     "drone": "Services Drone",
     "droneDescription": "Photographie et vidéographie aérienne professionnelle",
     "web": "Développement Web",
@@ -53,7 +54,7 @@
       "feature2": "Formats adaptables",
       "feature3": "Révisions illimitées"
     },
-    "productionFeatures": {
+    "printingFeatures": {
       "feature1": "Haute qualité d'impression",
       "feature2": "Supports variés",
       "feature3": "Finitions professionnelles"
@@ -336,7 +337,7 @@
           }
         }
       },
-      "production": {
+      "printing": {
         "hero": {
           "title": "Impression",
           "subtitle": "Solutions d'Impression Professionnelles"
@@ -612,7 +613,7 @@
       "photography": "Photographie",
       "video": "Vidéo",
       "graphics": "Design Graphique",
-      "production": "Production",
+      "printing": "Impression",
       "drone": "Drone",
       "web": "Web"
     },
@@ -745,7 +746,7 @@
       "confirm": "Confirmer la Réservation"
     }
   },
-  "modal":{
+  "modal": {
     "requestBooking": "Demander une réservation",
     "servicesSelected": "Services sélectionnés"
   },
@@ -757,6 +758,82 @@
     "bio": {
       "title": "Rencontrez Brice Kamga",
       "content": "Photographe professionnel et artiste visuel, Brice Kamga possède plus d'une décennie d'expérience dans la création de contenus visuels exceptionnels, alliant esthétique et stratégie pour capturer l'essence de chaque projet."
+    },
+    "experience": {
+      "title": "Parcours Professionnel",
+      "workExperience": "Expérience Professionnelle",
+      "positions": {
+        "1": {
+          "title": "Analyste Et Concepteur De Logiciels",
+          "company": "Bureau Web De Unife",
+          "period": "2024 - Présent",
+          "description": "Développement Des Processus De Digitalisation, Développement Et Maintenance Sur Les CMS De L’Université."
+        },
+        "2": {
+          "title": "Gestion Des Systèmes MES(Systèmes D'Exécution De Fabrication)",
+          "company": "Digifor Srl",
+          "period": "2023 - 2024",
+          "description": "Développement De Protocoles, Interconnexion Des Machines."
+        },
+        "3": {
+          "title": "Technicien Audiovisuel",
+          "company": "AAW TV",
+          "period": "2017 - 2018",
+          "description": "Monteur Vidéo, Graphiste, Création De Graphismes De Production."
+        },
+        "4": {
+          "title": "Monteur Audiovisuel",
+          "company": "Canal 2 International",
+          "period": "2014",
+          "description": "Montage Vidéo."
+        },
+        "5": {
+          "title": "Technicien De Diffusion Radio",
+          "company": "Tome Broadcasting Corporation",
+          "period": "2011 - 2013",
+          "description": "Diffusion Radio, Création De Spots Audio, Disc-Jockey (DJ)."
+        }
+      }
+    },
+    "certifications": {
+      "title": "Certifications",
+      "items": {
+        "1": {
+          "title": "Réalité Virtuelle Et Augmentée Au Service Des Entreprises",
+          "organization": "Centro Formazione Innovazione SRL",
+          "year": "2024"
+        },
+        "2": {
+          "title": "Pilote De Drone Certifié",
+          "organization": "DGAC - Attestation Européenne A1/A3",
+          "year": "2024"
+        },
+        "3": {
+          "title": "Technicien De L'Art Audiovisuel",
+          "organization": "Centre Professionnel Don Bosco",
+          "year": "2013"
+        }
+      }
+    },
+    "education": {
+      "title": "Formation",
+      "items": {
+        "1": {
+          "title": "Master En Ingénierie Informatique Et Automatique : Intelligence Artificielle",
+          "institution": "Université De Ferrare",
+          "period": "2025"
+        },
+        "2": {
+          "title": "Licence En Ingénierie Électronique Et Informatique",
+          "institution": "Université De Ferrare",
+          "period": "2022"
+        },
+        "3": {
+          "title": "Baccalauréat En Mathématiques Et Sciences Physiques",
+          "institution": "Lycée Bilingue De Mendong",
+          "period": "2011"
+        }
+      }
     }
   },
   "contact": {
@@ -764,9 +841,27 @@
     "subtitle": "Parlons de votre prochain projet",
     "description": "Discutons de votre projet et créons quelque chose d'extraordinaire ensemble",
     "info": {
-      "title": "Informations de Contact"
+      "titleInfo": "Informations de Contact",
+      "titleForm": "Envoyez-nous un message",
+      "phone": {
+        "name": "Téléphone"
+      },
+      "mail": {
+        "name": "Email"
+      },
+      "hour": {
+        "name": "Horaires",
+        "value": "Lun - Ven: 9h - 18h"
+      },
+      "address": {
+        "name": "Adresse",
+        "location": "Ferrara, Italie"
+      },
+      "globe": {
+        "name": "Zone de Service",
+        "value": "International"
+      }
     },
-    "location": "Italie",
     "form": {
       "name": "Votre Nom",
       "email": "Adresse Email",

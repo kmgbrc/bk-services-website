@@ -17,7 +17,7 @@ export default function Stats() {
     },
     { 
       icon: Coffee, 
-      value: '1,532', 
+      value: '732', 
       label: t('stats.cupsOfCoffee') 
     },
     { 

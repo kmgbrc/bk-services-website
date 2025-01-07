@@ -18,7 +18,7 @@ export default function CartNotification({ isVisible, onClose, item }: CartNotif
     if (isVisible) {
       const timer = setTimeout(() => {
         onClose();
-      }, 3000);
+      }, 2000);
       return () => clearTimeout(timer);
     }
   }, [isVisible, onClose]);
